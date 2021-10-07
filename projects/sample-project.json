@@ -1,3 +1,42 @@
 {
-    "sample": "project"
+    "friendlyName": "Sample Project",
+    "siteUrl": "https://sample.project/",
+    "twitterUrl": "https://twitter.com/sample__project",
+    "verifiedOn": "2021-10-01T04:00:00Z",
+    "verifyTweetUrl": "https://twitter.com/sample__project/status/1",
+    "markets": [
+        {
+            "name": "DigitalEyes",
+            "url": "https://digitaleyes.market/collections/Sample%20Project"
+        },
+        {
+            "name": "Magic Eden",
+            "url": "https://magiceden.io/marketplace?collection_symbol=sample_project"
+        },
+        {
+            "name": "Solanart",
+            "url": "https://solanart.io/collections/sample_project"
+        }
+    ],
+    "imageUrl": "<>",
+    "collections": [
+        {
+            "family": "Our Collection",
+            "names": [
+                {
+                    "totalSupply": 1,
+                    "sellerFeeBasisPoints": 500,
+                    "mintedOn": "2021-10-07T00:00:00z",
+                    "name": "Gen1",
+                    "symbol": "SP",
+                    "mintAddress": [
+                        "1234abcd"
+                    ],
+                    "validTokens": [
+                        "abcd1234"
+                    ]
+                }
+            ]
+        }
+    ]
 }
