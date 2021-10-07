@@ -24,7 +24,7 @@
       "family": "Solsteads",
       "names": [
         {
-          "totalSupply": 2476,
+          "totalSupply": 2472,
           "sellerFeeBasisPoints": 500,
           "mintedOn": "2021-09-29T23:00:00Z",
           "name": "SOLSTEAD",
@@ -203,9 +203,7 @@
             "9nYgqcFFKha3unuGHRMSE8V1pDuPsHj8figkDsgKjEsK",
             "CcSjEMTrSBhff6oXCbbNKoHrZHnbrtGDKnuatRTNsXee",
             "2Jus14cz9u1FgYQtRtX7RXmf5FnAxkiQfPrif8g4uUPf",
-            "HopRjT9GqM9YkeZYCg9qP8hS1tZUcaj8GoRg7oYR8dqN",
             "2scv8M1Zm3j13WXJeLEKuFrGfRYfgsUQwKfvirABdG6K",
-            "3cUwAifHHFDLpNffVSWC9vQbFwWK5SxgLmLAFnzYs1mv",
             "Gky5U83RLQ6LJ697k1i69tBVHQpVQiFzJQaYtnFBxPwQ",
             "9YMhwpRCypTCwJzssPdaEkiXQNjEz1dNTPti2Lsk7xqx",
             "D3VjGaQzbjthpVS2tCRGG8mQaQCBfDf7T16d6psk6sPj",
@@ -786,7 +784,6 @@
             "BdUuAsfDTz9AjKASw1bqC3rvZw7wBy6YwUFGuFjyqt8K",
             "Di2otapZgiQnz43dkBtNq8aQSp8vANhMbv6RBZT2pxBA",
             "FAq5FeFXT9zXch2VKerDH743yt2JseEeXbor3PDMBmwx",
-            "GzcFZPHtb2yrGi4aUcriR1MgYNjDwzBJhzFjj3mvzfmC",
             "8cpcAGAcepureGhf8y79PPKkG5JU4v6aBF2Z2zFLN7KB",
             "AtJ2vLsM1qU2JokaxETAxaprbvZsJHt62mdz4UZy7fS1",
             "E8JCPcT9vEgxyLZ2aSGWhHNd6RXjR2xVjGTkHogJRcS4",
@@ -902,7 +899,6 @@
             "HXpzn1JUAtJVXuNK74h1epRersqgAex7rknGHv4BeEbr",
             "8jTD8faHDT6eXaQgTnvYozmmCEH3UnPo4bbUUQ9JSP9x",
             "91J6tbGKqQDif4ouzHrMCen2Ns3SzttCmDbhu6FXSf5B",
-            "BMsjULoBse949maw3LQ49jJ3WvviV96FVCE4zqMbBLnL",
             "An47ve42N7EWfoCvbdM5KfjVWKVT8jWgFVgm6MVGZ2ym",
             "9SQ2hXAsxV1UUYHKPq7pQj2DVsGcFsC94yYWdCn2JZDJ",
             "Cu2B1UbVXewv7W5LS57CiTnfeiRKXFxdEKx8BSNVUsiB",
@@ -2509,6 +2505,12 @@
             "2QCRsn7jcU1AuUNFtNkSDeUrsduaLpfykmp4mpKzLNrX",
             "HM8vc1tCrFTGiqN41ZLyL6B3KRfwwmYH7t5QwibYVeyg",
             "GyBTddPAkFiUhLunMLzWXwrDoYceW27H5YtGpcmJ6V5K"
+          ],
+          incidents: [
+            "GzcFZPHtb2yrGi4aUcriR1MgYNjDwzBJhzFjj3mvzfmC",
+            "BMsjULoBse949maw3LQ49jJ3WvviV96FVCE4zqMbBLnL",
+            "HopRjT9GqM9YkeZYCg9qP8hS1tZUcaj8GoRg7oYR8dqN",
+            "3cUwAifHHFDLpNffVSWC9vQbFwWK5SxgLmLAFnzYs1mv"
           ]
         }
       ]
