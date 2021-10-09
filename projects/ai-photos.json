@@ -7,19 +7,19 @@
   "markets": [
     {
       "name": "DigitalEyes",
-      "url": "https://digitaleyes.market/collections/AI%20Classics"
-    },
-    {
-      "name": "MagicEden",
-      "url": "https://www.magiceden.io/marketplace?collection_symbol=ai_classics"
-    },
-    {
-      "name": "DigitalEyes",
       "url": "https://digitaleyes.market/collections/AI%20Photos%20-%20World%20Cities"
     },
     {
       "name": "MagicEden",
       "url": "https://www.magiceden.io/marketplace?collection_symbol=ai_photos_world_cities"
+    },
+    {
+      "name": "DigitalEyes",
+      "url": "https://digitaleyes.market/collections/AI%20Classics"
+    },
+    {
+      "name": "MagicEden",
+      "url": "https://www.magiceden.io/marketplace?collection_symbol=ai_classics"
     }
   ],
   "imageUrl": "https://pbs.twimg.com/profile_images/1437567078102441988/TK7pgWAk_400x400.jpg",
