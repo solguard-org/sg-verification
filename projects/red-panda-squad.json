@@ -38,7 +38,7 @@
         {
           "totalSupply": 10000,
           "sellerFeeBasisPoints": 500,
-          "mintedOn": "2021-10-07T00:00:00z",
+          "mintedOn": "2021-09-24T00:00:00z",
           "name": "Red Panda",
           "symbol": "REDPANDA",
           "mintAddress": ["4xESs1McQbwhXhWjpVBZ7Tb6gXNqH7grVbwTKZNjjk6V"],
